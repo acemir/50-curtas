@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f904dabe96cdcd306dc0330b9ec79f00",
+    "revision": "19134fc6f3b2b7c86f20141decddd2d2",
     "url": "/50-curtas/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/50-curtas/static/css/2.10703e33.chunk.css"
   },
   {
-    "revision": "8d1d3e7e5598c1b0ddf9",
+    "revision": "01705f293d202e3a662b",
     "url": "/50-curtas/static/css/main.4b74e6e9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/50-curtas/static/js/2.45ad2330.chunk.js"
   },
   {
-    "revision": "8d1d3e7e5598c1b0ddf9",
-    "url": "/50-curtas/static/js/main.bd70aad7.chunk.js"
+    "revision": "01705f293d202e3a662b",
+    "url": "/50-curtas/static/js/main.c09deb05.chunk.js"
   },
   {
     "revision": "16f852252d5c75be0ed5",
